@@ -47,6 +47,14 @@ Construir soluções simples, funcionais e organizadas, ajudando pequenos negóc
 
 ---
 
+## 📂 Projetos em destaque
+
+🔹 Landing Page para Negócios Locais  
+🔹 Servidor básico em Node.js  
+🔹 Projetos acadêmicos e exercícios práticos  
+
+---
+
 ## 📫 Contato
 
 📧 narcelioav@gmail.com 
